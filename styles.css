@@ -100,8 +100,6 @@ img {
   z-index: 10;
   backdrop-filter: blur(16px);
   background: rgba(243, 235, 223, 0.72);
-  border-bottom: 1px solid rgba(70, 45, 25, 0.08);
-  box-shadow: 0 1px 0 rgba(255, 250, 243, 0.72) inset;
 }
 
 .topbar {
@@ -413,6 +411,11 @@ img {
 }
 
 @media (max-width: 640px) {
+  .site-header {
+    backdrop-filter: none;
+    background: var(--bg);
+  }
+
   .container {
     width: min(100% - 2.5rem, 1120px);
   }

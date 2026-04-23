@@ -413,13 +413,17 @@ img {
 }
 
 @media (max-width: 640px) {
-  .topbar {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
   .container {
     width: min(100% - 2.5rem, 1120px);
+  }
+
+  .topbar {
+    padding: 0.7rem 0;
+  }
+
+  .brand {
+    font-size: clamp(1.9rem, 11vw, 2.45rem);
+    line-height: 0.95;
   }
 
   .hero {

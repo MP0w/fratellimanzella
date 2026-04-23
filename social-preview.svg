@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7efe2" />
+      <stop offset="100%" stop-color="#ecd9c1" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.2" r="0.8">
+      <stop offset="0%" stop-color="#b67433" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#b67433" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" rx="32" />
+  <rect width="1200" height="630" fill="url(#glow)" rx="32" />
+  <g fill="none" stroke="#6f451b" stroke-opacity="0.18">
+    <path d="M83 133h1034" />
+    <path d="M83 497h1034" />
+  </g>
+  <text x="84" y="126" fill="#9f6426" font-family="Manrope, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="7">
+    GENOVA
+  </text>
+  <text x="84" y="300" fill="#1f1510" font-family="'Cormorant Garamond', Georgia, serif" font-size="108" font-weight="700">
+    Fratelli Manzella
+  </text>
+  <text x="84" y="374" fill="#5f5045" font-family="Manrope, Arial, sans-serif" font-size="34" font-weight="600">
+    Osteria della Piazza, Angelina, La Forneria, Panegirico
+  </text>
+  <text x="84" y="468" fill="#9f6426" font-family="Manrope, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="4">
+    FRATELLIMANZELLA.IT
+  </text>
+</svg>

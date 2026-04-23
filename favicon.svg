@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Fratelli Manzella</title>
+  <rect width="64" height="64" rx="16" fill="#1f1510" />
+  <path d="M15 46V18h8.5c6.2 0 9.7 2.9 9.7 8.1 0 3.6-1.7 6.1-4.8 7.3L34 46h-6.2l-5.1-11h-2.6v11H15Zm5.1-15.2H23c3.4 0 5.1-1.4 5.1-4.3 0-2.9-1.7-4.2-5.1-4.2h-2.9v8.5Z" fill="#f7efe2" />
+  <path d="M36 46V18h5.2l8.4 16.1c.7 1.4 1.5 3.3 2.4 5.5-.2-2.9-.3-5.2-.3-6.9V18H57v28h-5.1L43.4 29.8c-.8-1.5-1.6-3.3-2.4-5.5.2 3 .2 5.4.2 7.1V46H36Z" fill="#d29a58" />
+</svg>
